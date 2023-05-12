@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(154, 10, 154);
+}
+
+img {
+    width: 25%;
+    height: 50%;
+    margin-top: 10px;
+}
+
+.heading {
+    margin-top: 100px;
+    color: red;
+}
+
+#main-words {
+    color: rgb(10, 116, 233);
+}
+
+#note {
+    color: yellow;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(193, 7, 187, 0.866);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+}
